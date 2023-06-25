@@ -1,4 +1,4 @@
-Opensource Education is a non-profit organization that focuses on providing open source software for education in Indonesia.
+Opensource Edukasi is a non-profit organization that focuses on providing open source software for education in Indonesia.
 
 The project roadmap that will be built is:
 - Learning Management System (LMS)
